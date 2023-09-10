@@ -2016,3 +2016,28 @@ body {
     border-radius: 23px;
   }
 }
+
+.carousel-control-next,
+.carousel-control-prev {
+    filter: invert(80%);
+}
+
+.card{
+    border: none;
+}
+
+.card-text{
+  margin: 3%;
+font-size: medium;
+font-weight: bold;
+font-family: 'Times New Roman', Times, serif;
+color: #0C2D48;
+}
+
+.card-title{
+  margin: 3%;
+  font-size: large;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+  color:  #5b03e4;
+}
